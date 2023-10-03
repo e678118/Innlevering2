@@ -25,7 +25,7 @@ public class Matriser {
 
 
 		        }
-		        resultat += "\\n";  // Legg alltid til linjeskift etter hver rad
+		        resultat += "\n";  // Legg alltid til linjeskift etter hver rad
 		    }
 
 		    return resultat;
